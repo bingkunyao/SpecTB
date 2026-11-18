@@ -1,9 +1,4 @@
-#!/usr/bin/env python3
-"""Minimal SpecTB inference script.
 
-The prompt template is intentionally NOT included in this release. Pass a
-ready-to-use prompt string, or a JSONL file whose lines contain a "prompt" field.
-"""
 import argparse
 import json
 import sys
