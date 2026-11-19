@@ -19,6 +19,7 @@ This folder contains the training data samples, the merged inference model (host
 | `ir.jsonl` | test-point IR, serialized as a JSON string |
 | `tb.jsonl` | testbench |
 | `test.jsonl` | test dataset |
+| `SOURCES.md` | the sources of the seed data |
 
 ## Model
 
