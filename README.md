@@ -17,7 +17,8 @@ This folder contains the training data samples, the merged inference model (host
 | `spec.jsonl` | module specification text |
 | `code.jsonl` | golden RTL implementation |
 | `ir.jsonl` | test-point IR, serialized as a JSON string |
-| `tb.jsonl` | code-feedback-validated testbench (Verilog) |
+| `tb.jsonl` | testbench |
+| `test.jsonl` | test dataset |
 
 ## Model
 
